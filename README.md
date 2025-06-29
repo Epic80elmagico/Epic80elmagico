@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hi, I'm Epic_80_elmagico
+Hola, yo soy Epic_80_elmagico
+Bonjour, je suis Epic_80_elmagico
+Merhaba, ben Epic_80_elmagico
+こんにちは！、わたしはEpic_80_elmagicoです
+
 <!--
 **Epic80elmagico/Epic80elmagico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
