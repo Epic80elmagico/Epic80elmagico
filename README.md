@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-Hi, I'm Epic_80_elmagico 
-
-Hola, yo soy Epic_80_elmagico
-Bonjour, je suis Epic_80_elmagico
-Merhaba, ben Epic_80_elmagico
+Hi, I'm Epic_80_elmagico<br>
+Hola, yo soy Epic_80_elmagico<br>
+Bonjour, je suis Epic_80_elmagico<br>
+Merhaba, ben Epic_80_elmagico<br>
 こんにちは！、わたしはEpic_80_elmagicoです
 
+## About Me 👋
+Hi guys, I'm Epic_80_elmagico, but you can just call me Epic. I make things for fun, whether it be apps, games, or devices 
 <!--
 **Epic80elmagico/Epic80elmagico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
