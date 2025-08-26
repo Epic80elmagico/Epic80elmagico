@@ -12,6 +12,11 @@ Hi guys, I'm Epic_80_elmagico, but you can just call me Epic. I make things for 
  - Python
  - JavaScript
  - GDScript (learning)
+
+## 📈 GitHub Stats
+![Epic80elmagico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epic80elmagico&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic80elmagico&layout=compact&theme=tokyonight)
+
 <!--
 **Epic80elmagico/Epic80elmagico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
