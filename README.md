@@ -9,6 +9,7 @@ Merhaba, ben Epic_80_elmagico<br>
 Hi guys, I'm Epic_80_elmagico, but you can just call me Epic. I make things for fun, whether it be apps, games, or devices 
 
 ## Current Programming Languages 👋
+ - HTML
  - Python
  - JavaScript
  - GDScript (learning)
