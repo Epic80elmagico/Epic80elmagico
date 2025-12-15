@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="epic80eGHstandard" src="https://github.com/user-attachments/assets/567c4f52-f7c6-4317-98c2-47e82b8c6f27" />
+
 ## Hi there 👋
 Hi, I'm Epic_80_elmagico<br>
 Hola, yo soy Epic_80_elmagico<br>
@@ -13,6 +15,7 @@ Hi guys, I'm Epic_80_elmagico, but you can just call me Epic. I make things for 
  - Python
  - JavaScript
  - GDScript (learning)
+
 
 <!--
 **Epic80elmagico/Epic80elmagico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
