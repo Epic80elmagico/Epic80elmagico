@@ -5,7 +5,7 @@ Hi, I'm Epic_80_elmagico<br>
 Hola, yo soy Epic_80_elmagico<br>
 Bonjour, je suis Epic_80_elmagico<br>
 Merhaba, ben Epic_80_elmagico<br>
-こんにちは！、わたしはEpic_80_elmagicoです
+こんにちは！、わたしはEpic_80_elmagico
 
 ## About Me 👋
 Hi guys, I'm Epic_80_elmagico, but you can just call me Epic. I make things for fun, whether it be apps, games, or devices 
